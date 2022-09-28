@@ -1,0 +1,8 @@
+checkpoint
+log.txt
+.idea
+.vscode
+.vs
+venv
+[Ll]og*
+__pycache__

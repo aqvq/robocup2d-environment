@@ -1,0 +1,14 @@
+# Created by shang at 2022.09.26
+label: "[ROBOCUP2D ENV]"
+# 输出日志文件配置信息
+log:
+  # 输出日志等级
+  # 选项（不区分大小写）：
+  # DEBUG/INFO/WARNING/ERROR/CRITICAL
+  level: info
+  # 输出日志文件名
+  output: log.txt
+  # 转储规则（留空为禁用）
+  rotation:
+  # 延迟删除规则（留空为禁用）
+  retention: 1 week
